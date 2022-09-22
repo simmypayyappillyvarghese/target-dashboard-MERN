@@ -1,17 +1,5 @@
-# On-site Fullstack Technical Assessment
 
-Time: 90 mins
 
-## Introduction
-The goal of this exercise is to get a handle on the kinds of problems you may encounter as a fullstack engineer
-at Reach Labs, and how do you apply your experience and technical knowledge to resolve them. This problem is
-intentionally open ended to test your ability to think from first principles, and architect solutions from scratch, but
-there is a lot to do here, so don’t worry if you can’t get all the way through.
-
-## Background and Motivation
-Imagine Reach Labs has deployed a Wireless Power Network to deliver power to devices (e.g. sensors or tools) in
-a manufacturing warehouse. The warehouse has been equipped with Wireless Power Routers, capable of sending
-power to (or “servicing”) one or more wireless-power enabled devices, or Targets. A Network overseer should be able to view information about the Targets within a facility in order to ensure the Wireless Power Network is delivering power properly. Your Goal is to design (part of) a web application to help with this monitoring.
 
 ## Q1 
 ### Naming Targets
