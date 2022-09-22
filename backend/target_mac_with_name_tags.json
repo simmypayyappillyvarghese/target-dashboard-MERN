@@ -1,0 +1,39 @@
+[
+    {
+        "mac_addr": "90E73F6448E4",
+        "name": "copper-hedgehog",
+        "tags": [
+            "Camera",
+            "Floor 9"
+        ]
+    },
+    {
+        "mac_addr": "6B6B412FA422",
+        "name": "noisy-robin",
+        "tags": [
+            "Palette",
+            "West Wall"
+        ]
+    },
+    {
+        "mac_addr": "D9B118890AFC",
+        "name": "striped-duck",
+        "tags": [
+            "Floor 7",
+            "Southeast Quadrant"
+        ]
+    },
+    {
+        "mac_addr": "5322BC5E6122",
+        "name": "successful-waxbill",
+        "tags": []
+    },
+    {
+        "mac_addr": "8207D239D760",
+        "name": "beryl-turkey",
+        "tags": [
+            "Floor 2",
+            "East Wall"
+        ]
+    }
+]

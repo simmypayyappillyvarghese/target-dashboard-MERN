@@ -1,0 +1,16 @@
+{
+  "name": "reach-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "concurrently \" cd frontend && npm run start \" \"cd backend && npm run watch\"",
+    "seeds": "node backend/seed.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.4.0"
+  }
+}
